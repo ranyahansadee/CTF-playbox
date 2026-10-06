@@ -1,0 +1,8 @@
+cd ~/scripts
+ls -la
+cat backup_check.sh
+./backup_check.sh
+echo "Verification hash: 5fcfd41e547a12215b173ff47fdd3739"
+rm backup_check.sh
+cd ~
+exit
